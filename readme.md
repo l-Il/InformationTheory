@@ -8,6 +8,4 @@
 
 
 ### Ссылка на сайт: _http://informationtheory.pythonanywhere.com_/
-<p align="center">
 [![ ](https://github.com/l-Il/InformationTheory/blob/master/1.gif)](http://informationtheory.pythonanywhere.com/)
-</p>
